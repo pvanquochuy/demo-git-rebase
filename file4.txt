@@ -1,13 +1,12 @@
 text4 update code moi
-<<<<<<< HEAD
 text4 update
 
 dsa
 
 code moi nhanh q
-=======
 
 day la code moi main
 
 code moi main 2
->>>>>>> main
+
+code task update 3
